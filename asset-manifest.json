@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ball-fight/static/css/main.65a2514b.css",
+    "main.js": "/ball-fight/static/js/main.1cccd6cd.js",
+    "index.html": "/ball-fight/index.html",
+    "main.65a2514b.css.map": "/ball-fight/static/css/main.65a2514b.css.map",
+    "main.1cccd6cd.js.map": "/ball-fight/static/js/main.1cccd6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a2514b.css",
+    "static/js/main.1cccd6cd.js"
+  ]
+}
